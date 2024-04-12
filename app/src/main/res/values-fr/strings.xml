@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La Recherche de Nouvelles The Guardian</string>
+    <string name="search_hint">Entrez le terme de recherche...</string>
+    <string name="search_button">Chercher</string>
+    <string name="loading">Chargement...</string>
+    <string name="home">Accueil</string>
+    <string name="favorites">Favoris</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_help">Help</string>
+    <string name="help_content">
+   Comment utiliser l\'application de recherche d\'articles de Guardian News\n
+    Bienvenue dans l\'application de recherche d\'articles de Guardian News! Voici comment commencer:\n
+    \n
+    Recherche d\'articles:\n
+    \n
+    Ouvrez l\'application sur l\'écran principal.\n
+    Entrez un mot-clé dans la boîte de recherche en haut de l\'écran.\n
+    Appuyez sur le bouton "Rechercher" pour trouver des articles de The Guardian liés à votre requête.\n
+    Voir les détails de l\'article:\n
+    \n
+    Appuyez sur n\'importe quel article dans la liste pour voir plus de détails, y compris le titre de l\'article, l\'URL et la section à laquelle il appartient.\n
+    Cliquez sur l\'URL pour ouvrir l\'article complet dans le navigateur Web de votre appareil pour une lecture complète.\n
+    Ajouter aux favoris:\n
+    \n
+    Lors de la visualisation des détails d\'un article, vous pouvez l\'ajouter à vos favoris en cliquant sur le bouton "Ajouter aux favoris".\n
+    Cela enregistre l\'article pour un accès facile plus tard, même hors ligne.\n
+    Accéder et gérer les favoris:\n
+    \n
+    Ouvrez le tiroir de navigation en appuyant sur l\'icône de menu dans le coin supérieur gauche de l\'écran principal.\n
+    Sélectionnez "Favoris" pour voir vos articles enregistrés.\n
+    Appuyez longuement sur un article dans la liste des favoris pour le retirer de vos favoris.
+</string>
+
+</resources>
